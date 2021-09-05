@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#2c3e50</color>
+    <color name="colorAccent">#4C88AF</color>
+    <color name="textPrimaryColor">#FFFFFF</color>
+    <color name="textSecondaryColor">#000000</color>
+    <color name="onyxBlack">#353935</color>
+    <color name="mateBlack">#28282B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#9CE6DEDE</color>
+
+    <color name="colorBanner_1">#2c3e50</color>
+    <color name="colorBanner_2">#2980b9</color>
+
+    <color name="spinItemColorOne">#7EBAE1</color>
+    <color name="spinItemColorTwo">#4C88AF</color>
+    <color name="spinItemColorThree">#68A8CF</color>
+
+</resources>

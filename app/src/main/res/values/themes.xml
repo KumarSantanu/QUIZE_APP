@@ -1,0 +1,22 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Parent" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorBanner_2</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:fontFamily">@font/asap_medium</item>
+        // Default Font
+
+        <item name="android:navigationBarColor">@color/colorBanner_1</item>
+        // Bottom navigation Color
+        <item name="android:statusBarColor">@color/colorBanner_2</item>
+        // Status Bar Color
+    </style>
+
+    //Activity Themme
+    <style name="AppTheme.NoActionBar" parent="Theme.Parent">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
