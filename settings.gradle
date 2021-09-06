@@ -6,5 +6,5 @@ dependencyResolutionManagement {
          // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "Math Quize to Earn Money"
+rootProject.name = "Math Quiz to Earn Money"
 include ':app'

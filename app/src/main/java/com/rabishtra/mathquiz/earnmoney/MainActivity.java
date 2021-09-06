@@ -1,4 +1,4 @@
-package com.rabishtra.mathquize.earnmoney;
+package com.rabishtra.mathquiz.earnmoney;
 
 import android.os.Bundle;
 
@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         initView();
+        setValue();
         setToolbar();
     }
 
@@ -30,5 +31,9 @@ public class MainActivity extends AppCompatActivity {
                 toolbar.setTitle(title);
             }
         }
+    }
+
+    private void setValue(){
+        title = getString(R.string.app_name);
     }
 }

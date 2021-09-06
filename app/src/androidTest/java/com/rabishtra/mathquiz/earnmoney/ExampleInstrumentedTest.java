@@ -1,4 +1,4 @@
-package com.rabishtra.mathquize.earnmoney;
+package com.rabishtra.mathquiz.earnmoney;
 
 import android.content.Context;
 
